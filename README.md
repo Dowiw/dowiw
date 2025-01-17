@@ -1,4 +1,4 @@
-## Hi there 👋
+#About me
 
 This is my first time creating a readme for my profile! :)
 Hopefully it will turn out well.
