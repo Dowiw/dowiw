@@ -5,8 +5,6 @@ Hopefully it will turn out well.
 
 <a href="https://roadmap.sh"><img src="https://roadmap.sh/card/wide/678a90ce98c00f7117d8595f?variant=dark&roadmaps=sql" alt="roadmap.sh"/></a>
 
-**Dowiw/dowiw** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
 Here are some ideas to get you started:
 
 - 🔭 I’m currently working on a java calculator.
