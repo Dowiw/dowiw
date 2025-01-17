@@ -1,6 +1,6 @@
 # About me
 
-This is my first time creating a readme for my profile! :)
+This is my first time creating a readme for my profile!
 Hopefully it will turn out well.
 
 <a href="https://roadmap.sh"><img src="https://roadmap.sh/card/wide/678a90ce98c00f7117d8595f?variant=dark&roadmaps=sql" alt="roadmap.sh"/></a>
