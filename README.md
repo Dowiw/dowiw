@@ -7,3 +7,5 @@
 - 💬 Ask me about strawberries.
 - 😄 Pronouns: he/him
 - 🏊‍♂️ A piscine passer of 42 during March - April (2025).
+
+- 🇵🇭 I dream of spreading tech to the Philippines. (I hope a 42 Manila is made. If not, I'll make it)
