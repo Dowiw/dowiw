@@ -2,7 +2,7 @@
 
 ```
 - Based in 🇩🇪 studies at 42 Berlin & UE.
-- 🌱 I’m currently learning C & Deep Learning.
+- 🌱 I’m currently learning C, Deep Learning & Deutsch.
 - 👯 I’m looking to collaborate on food (because I am hungry most of the time).
 - 🤔 I’m looking for help with mathematics.
 - 💬 Ask me about strawberries.
